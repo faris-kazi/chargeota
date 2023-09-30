@@ -7,4 +7,4 @@ Backend: Node.js, Next.js
 
 Frontend: React, TailwindCSS, TypeScript
 
-Database: MongoDB
+Database: MongoDB, mongoose
