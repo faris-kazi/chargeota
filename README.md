@@ -1,10 +1,10 @@
-# Grobo
+# Chargeota
 .
 
-Webpage designed to deliver healthy eating options using Google's Bard AI to generate recipes and grocery lists for users.
+App designed to facilitate battery charging of EV streamlined to user's specific schedule.
 
-Backend: Node.js, Next.js
+Backend: Python, Google Collab
 
-Frontend: React, TailwindCSS, TypeScript
+Frontend: Flutter
 
-Database: MongoDB, mongoose
+Database: Firebase
